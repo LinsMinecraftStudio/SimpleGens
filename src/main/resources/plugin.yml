@@ -1,0 +1,6 @@
+name: SimpleGens
+api-version: 1.20
+main: io.github.lijinhong11.simplegens.SimpleGens
+version: ${project.version}
+author: mmmjjkx
+description: A gens plugin try to beat AxGens
